@@ -35,6 +35,6 @@ This project is licensed under the MIT License.
 
 ## Screenshot
 
-![Google Sheets Output](screenshot.png)
+![WBG Schweiz Official Website](wbg-schweiz-official-website.png)
 
 
