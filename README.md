@@ -32,3 +32,9 @@ This project is a Python-based web scraper that extracts business information fr
 ## License
 
 This project is licensed under the MIT License.
+
+## Screenshot
+
+![Google Sheets Output](screenshot.png)
+
+
